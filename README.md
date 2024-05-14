@@ -1,1 +1,1 @@
-# projeto-ecommece
+# Projeto - website de ecommerce
