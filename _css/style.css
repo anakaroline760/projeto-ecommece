@@ -48,3 +48,12 @@ nav#menu a:visited:hover{
 nav#menu li:hover{
     background-color: rgb(2, 14, 32);
 }
+
+/* manipulação de imagem do rpojeto, na página produto s*/
+.produtos img{
+max-width: 300px;
+
+}
+.produtos p{
+    color: aliceblue;
+}
